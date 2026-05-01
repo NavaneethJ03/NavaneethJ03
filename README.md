@@ -47,7 +47,7 @@
   "location"       : "India",
   "current_ops"    : [
     "AI-powered Classroom Assistant (NLP + OCR + real-time analytics)",
-    "Converso AI — AI learning companions SaaS",
+    "Converso AI — an AI learning companions SaaS",
     "Backend Intern @ HealthScore",
     "Leading CODE HUB — teaching dev & DSA"
   ],
