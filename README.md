@@ -28,7 +28,7 @@
 [████████████████████] 100%  ctOS firewall bypassed
 
   PROFILE OWNER LOCATED.
-  TARGET     : NAVANEETH J
+  TARGET     : NAVANEETHA KRISHNAA J
   STATUS     : BUILDING THINGS THAT SHOULDN'T EXIST YET.
   THREAT LEVEL : ARCHITECT
 ```
@@ -42,15 +42,17 @@
 ```json
 {
   "handle"         : "NavaneethJ03",
-  "real_name"      : "Navaneeth J",
+  "real_name"      : "Navaneetha Krishnaa J",
   "classification" : "Backend Developer | AI Builder | System Thinker",
   "location"       : "India",
   "current_ops"    : [
-    "AI-powered Classroom Assistant (NLP + OCR + real-time analytics)",
-    "Converso AI — an AI learning companions SaaS",
-    "Backend Intern @ HealthScore",
-    "Leading CODE HUB — teaching dev & DSA"
-  ],
+  "AI-powered Classroom Assistant (NLP + OCR + real-time analytics)",
+  "Converso AI — an AI learning companions SaaS",
+  "Built TechnoSummit Website — full-stack event platform",
+  "Developed Energy Demand Predictor (Cognizant Hackathon)",
+  "AI-based Electricity Forecasting (SIH Delhi Project)",
+  "Ex-Backend Intern @ HealthScore",
+  "Leading CODE HUB — teaching dev & DSA"],
   "mindset"         : "Break systems to understand them. Build to make them irreplaceable.",
   "uptime"          : "24/7 except when debugging at 3am",
   "kernel_mode"     : ["hacker", "builder", "educator"],
@@ -66,59 +68,104 @@
 <tr>
 <td width="50%">
 
-### `[MISSION_01] :: CLASSROOM.AI`
+### `[MISSION_01] :: GRID.INTELLIGENCE`
 ```
-STATUS   : ACTIVE
-PRIORITY : CRITICAL
-STACK    : Python · FastAPI · NLP · OCR
+STATUS : DEPLOYED
+SOURCE : SIH Delhi
+STACK : AI · Forecasting · Optimization
 ```
-Real-time classroom intelligence system.
-Captures, transcribes, and distills lectures
-while you pretend to take notes.
-_The teacher thinks you're typing. You're shipping._
+AI-based electricity demand prediction system.  
+Designed for large-scale infrastructure planning.  
+_When systems scale, prediction becomes survival._
 
 </td>
 <td width="50%">
 
-### `[MISSION_02] :: CONVERSO.AI`
+### `[MISSION_02] :: ENERGY.AI`
 ```
-STATUS   : ACTIVE
-PRIORITY : HIGH
-STACK    : AI · SaaS · LLM Orchestration
+STATUS : DEPLOYED
+SOURCE : Cognizant Hackathon
+STACK : Python · ML · Time Series
 ```
-AI learning companions that actually adapt.
-Not another chatbot. A co-pilot for how
-humans absorb knowledge.
-_Learning, but make it actually work._
+Energy demand predictor using data-driven models.  
+Focused on forecasting and resource optimization.  
+_Data → predictions → smarter decisions._
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
-### `[MISSION_03] :: HEALTHSCORE`
+### `[MISSION_03] :: TECHNOSUMMIT.SYS`
 ```
-STATUS   : ONGOING
-ROLE     : Backend Intern
-STACK    : APIs · Data · System Design
+STATUS : LIVE
+STACK : Full-Stack · Backend · Systems
 ```
-Turning health data into actionable decisions.
-Backend plumbing for systems that matter
-when it actually matters — your health.
+Built and deployed a full event platform.  
+Handled **3000+ registrations** with real user flow.  
+_Not just a website — a system under load._
 
 </td>
 <td width="50%">
 
-### `[MISSION_04] :: CODE HUB`
+### `[MISSION_04] :: CONVERSO.AI`
 ```
-STATUS   : OPERATIONAL
-ROLE     : Lead / Mentor
-FOCUS    : Dev + DSA Education
+STATUS : ACTIVE
+PRIORITY : HIGH
+STACK : AI · SaaS · LLM Orchestration
 ```
-Running a developer community from scratch.
-Teaching people to think before they Google.
-_The best code you write is someone else's first._
+AI learning companions that adapt to users.  
+Not just responses — evolving understanding.  
+_Learning that actually learns you._
 
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### `[MISSION_05] :: CLASSROOM.AI`
+```
+STATUS : ACTIVE
+PRIORITY : CRITICAL
+STACK : Python · FastAPI · NLP · OCR
+```
+Real-time classroom intelligence system.  
+Captures, processes, and extracts key insights.  
+_The teacher thinks you're typing. You're building systems._
+
+</td>
+<td width="50%">
+
+### `[MISSION_06] :: HEALTHSCORE`
+```
+STATUS : COMPLETED
+ROLE : Backend Intern
+STACK : APIs · Data · Systems
+```
+Built backend systems for health data workflows.  
+Focused on reliability and real-world impact.  
+_Systems that don’t get a second chance._
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### `[MISSION_07] :: JUSDB`
+```
+STATUS : COMPLETED
+ROLE : AI / NLP Intern
+STACK : NLP · Automation · Data Processing
+```
+Worked on automated index generation using NLP.  
+Improved document processing efficiency.  
+_Turning unstructured data into usable systems._
+
+</td>
+<td width="50%">
 </td>
 </tr>
 </table>
