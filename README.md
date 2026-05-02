@@ -68,7 +68,7 @@
 <tr>
 <td width="50%">
 
-### `[MISSION_01] :: GRID.INTELLIGENCE`
+### `[MISSION_01] :: ElectroForecast.Ai`
 ```
 STATUS : DEPLOYED
 SOURCE : SIH Delhi
@@ -81,7 +81,7 @@ _When systems scale, prediction becomes survival._
 </td>
 <td width="50%">
 
-### `[MISSION_02] :: ENERGY.AI`
+### `[MISSION_02] :: VoltWise.Ai`
 ```
 STATUS : DEPLOYED
 SOURCE : Cognizant Hackathon
@@ -97,7 +97,7 @@ _Data → predictions → smarter decisions._
 <tr>
 <td width="50%">
 
-### `[MISSION_03] :: TECHNOSUMMIT.SYS`
+### `[MISSION_03] :: TECHNOSUMMIT-SIST.SYS`
 ```
 STATUS : LIVE
 STACK : Full-Stack · Backend · Systems
@@ -125,7 +125,7 @@ _Learning that actually learns you._
 <tr>
 <td width="50%">
 
-### `[MISSION_05] :: CLASSROOM.AI`
+### `[MISSION_05] :: Benkyo.AI`
 ```
 STATUS : ACTIVE
 PRIORITY : CRITICAL
@@ -271,9 +271,9 @@ $ tail -f /var/log/navaneeth/brain.log
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=3BE0F0&label=CONNECT)](https://linkedin.com/in/navaneethj03)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=3BE0F0&label=CONNECT)](https://linkedin.com/in/navaneetha-krishnaa-jayaprakash)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff&label=FOLLOW)](https://github.com/NavaneethJ03)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=A855F7&label=SIGNAL)](mailto:navaneethj03@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=A855F7&label=SIGNAL)](mailto:navaneethajayaprakash45@gmail.com)
 
 </div>
 
