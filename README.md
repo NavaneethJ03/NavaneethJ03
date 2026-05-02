@@ -3,7 +3,7 @@
      Unauthorized access is not just expected — it's welcome.
      ============================================================ -->
 
-<div align="center">
+<div>
 
 ```
  ██████╗   ███████╗  ██████╗   ███████╗  ███████╗  ██████╗
